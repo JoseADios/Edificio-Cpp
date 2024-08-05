@@ -102,5 +102,5 @@ int main()
 
 ## 👤 Autor
 
-- ** José de Dios** - [Perfil](https://github.com/JoseADios)
+- **José de Dios** - [Perfil](https://github.com/JoseADios)
 
